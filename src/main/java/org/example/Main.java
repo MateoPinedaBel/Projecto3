@@ -22,5 +22,12 @@ public class Main {
         int cedula5 = 1127923098;
         int cedula6 = 1020416721;
         int cedula7 = 1000440959;
+        String Barrio1 = "Belén Rincón.";
+        String Barrio2 = "Enciso.";
+        String Barrio3 = "Maruchenga.";
+        String Barrio4 = "Olivares.";
+        String Barrio5 = "Córdoba.";
+        String Barrio6 = "Bello.";
+        String Barrio7 = "Castilla.";
         }
     }
